@@ -1,0 +1,145 @@
+INFO:root:bot is starting
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @knowsiqbot id=6578161079 - 'IQBot'
+INFO:root:middleware started
+INFO:root:connected to database (in middleware)
+INFO:aiogram.event:Update id=528784488 is handled. Duration 0 ms by bot id=6578161079
+INFO:aiogram.dispatcher:Polling stopped
+INFO:aiogram.dispatcher:Polling stopped for bot @knowsiqbot id=6578161079 - 'IQBot'
+INFO:root:bot is starting
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @knowsiqbot id=6578161079 - 'IQBot'
+INFO:root:middleware started
+INFO:root:start command
+INFO:aiogram.event:Update id=528784489 is handled. Duration 233 ms by bot id=6578161079
+INFO:root:middleware started
+INFO:root:connected to database (in middleware)
+INFO:aiogram.event:Update id=528784490 is handled. Duration 0 ms by bot id=6578161079
+INFO:root:middleware started
+INFO:root:start command
+INFO:aiogram.event:Update id=528784491 is handled. Duration 108 ms by bot id=6578161079
+INFO:root:middleware started
+INFO:root:connected to database (in middleware)
+WARNING:root:user is not registered, disconnected from database, middleware finished
+INFO:aiogram.event:Update id=528784492 is handled. Duration 217 ms by bot id=6578161079
+INFO:root:middleware started
+INFO:root:connected to database (in middleware)
+WARNING:root:not enough time left to change iq, disconnected from database, middleware finished
+INFO:aiogram.event:Update id=528784493 is handled. Duration 78 ms by bot id=6578161079
+INFO:root:middleware started
+INFO:root:connected to database (in middleware)
+INFO:aiogram.event:Update id=528784494 is handled. Duration 0 ms by bot id=6578161079
+INFO:aiogram.dispatcher:Polling stopped
+INFO:aiogram.dispatcher:Polling stopped for bot @knowsiqbot id=6578161079 - 'IQBot'
+INFO:root:bot is starting
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @knowsiqbot id=6578161079 - 'IQBot'
+INFO:root:middleware started
+INFO:root:connected to database (in middleware)
+INFO:aiogram.event:Update id=528784495 is handled. Duration 0 ms by bot id=6578161079
+INFO:root:middleware started
+INFO:root:start command
+INFO:aiogram.event:Update id=528784496 is handled. Duration 250 ms by bot id=6578161079
+INFO:root:middleware started
+INFO:root:connected to database (in middleware)
+INFO:aiogram.event:Update id=528784497 is handled. Duration 0 ms by bot id=6578161079
+INFO:aiogram.dispatcher:Polling stopped for bot @knowsiqbot id=6578161079 - 'IQBot'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:root:bot is starting
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @knowsiqbot id=6578161079 - 'IQBot'
+INFO:aiogram.dispatcher:Polling stopped for bot @knowsiqbot id=6578161079 - 'IQBot'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:root:bot is starting
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @knowsiqbot id=6578161079 - 'IQBot'
+INFO:root:middleware started
+INFO:root:connected to database
+INFO:root:disconnected from database
+INFO:root:connected to database
+INFO:root:iq command, disconnected from database
+INFO:root:middleware finished: no matches in flags
+INFO:aiogram.event:Update id=528784498 is handled. Duration 327 ms by bot id=6578161079
+INFO:root:middleware started
+INFO:root:connected to database
+ERROR:root:not enough time left before previous change, disconnected from database, middleware finished
+INFO:aiogram.event:Update id=528784499 is handled. Duration 155 ms by bot id=6578161079
+INFO:aiogram.dispatcher:Polling stopped for bot @knowsiqbot id=6578161079 - 'IQBot'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:root:bot is starting
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @knowsiqbot id=6578161079 - 'IQBot'
+INFO:root:middleware started
+INFO:root:middleware finished: no flags
+INFO:root:start command
+INFO:aiogram.event:Update id=528784501 is handled. Duration 328 ms by bot id=6578161079
+INFO:root:middleware started
+INFO:root:connected to database
+INFO:root:disconnected from database
+INFO:root:connected to database
+INFO:root:registered in database, disconnected from database
+INFO:root:middleware finished: no matches in flags
+INFO:aiogram.event:Update id=528784502 is handled. Duration 125 ms by bot id=6578161079
+INFO:root:middleware started
+INFO:root:connected to database
+INFO:root:disconnected from database
+INFO:root:connected to database
+INFO:root:iq command, disconnected from database
+INFO:root:middleware finished: no matches in flags
+INFO:aiogram.event:Update id=528784503 is handled. Duration 94 ms by bot id=6578161079
+INFO:root:middleware started
+INFO:root:connected to database
+INFO:root:disconnected from database
+INFO:root:connected to database
+INFO:root:changeiq command, disconnected from database
+INFO:root:middleware finished: no matches in flags
+INFO:aiogram.event:Update id=528784504 is handled. Duration 108 ms by bot id=6578161079
+INFO:root:middleware started
+INFO:root:middleware finished: no flags
+INFO:aiogram.event:Update id=528784505 is handled. Duration 78 ms by bot id=6578161079
+INFO:root:middleware started
+INFO:root:connected to database
+INFO:root:disconnected from database
+INFO:root:connected to database
+INFO:root:iq command, disconnected from database
+INFO:root:middleware finished: no matches in flags
+INFO:aiogram.event:Update id=528784506 is handled. Duration 109 ms by bot id=6578161079
+INFO:root:middleware started
+INFO:root:middleware finished: no flags
+INFO:root:start command
+INFO:aiogram.event:Update id=528784507 is handled. Duration 265 ms by bot id=6578161079
+INFO:aiogram.event:Update id=528784508 is not handled. Duration 0 ms by bot id=6578161079
+INFO:aiogram.event:Update id=528784509 is not handled. Duration 0 ms by bot id=6578161079
+INFO:root:middleware started
+INFO:root:connected to database
+INFO:root:disconnected from database
+INFO:root:connected to database
+INFO:root:registered in database, disconnected from database
+INFO:root:middleware finished: no matches in flags
+INFO:aiogram.event:Update id=528784510 is handled. Duration 266 ms by bot id=6578161079
+INFO:root:middleware started
+INFO:root:connected to database
+INFO:root:disconnected from database
+INFO:root:connected to database
+INFO:root:iq command, disconnected from database
+INFO:root:middleware finished: no matches in flags
+INFO:aiogram.event:Update id=528784511 is handled. Duration 187 ms by bot id=6578161079
+INFO:root:middleware started
+INFO:root:connected to database
+INFO:root:disconnected from database
+INFO:root:connected to database
+INFO:root:changeiq command, disconnected from database
+INFO:root:middleware finished: no matches in flags
+INFO:aiogram.event:Update id=528784512 is handled. Duration 218 ms by bot id=6578161079
+INFO:root:middleware started
+INFO:root:middleware finished: no flags
+INFO:aiogram.event:Update id=528784513 is handled. Duration 125 ms by bot id=6578161079
+INFO:root:middleware started
+INFO:root:connected to database
+INFO:root:disconnected from database
+INFO:root:connected to database
+INFO:root:iq command, disconnected from database
+INFO:root:middleware finished: no matches in flags
+INFO:aiogram.event:Update id=528784514 is handled. Duration 187 ms by bot id=6578161079
+INFO:aiogram.dispatcher:Polling stopped for bot @knowsiqbot id=6578161079 - 'IQBot'
+INFO:aiogram.dispatcher:Polling stopped
